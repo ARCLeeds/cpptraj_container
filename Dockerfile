@@ -1,3 +1,4 @@
+#Dockerfile for cpptraj AMBER
 FROM ubuntu:latest
 
 MAINTAINER Martin Callaghan <m.callaghan@leeds.ac.uk> 
